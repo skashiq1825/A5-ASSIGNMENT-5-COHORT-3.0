@@ -1036,7 +1036,7 @@ nav {
     font-size: 14px;
     position: relative;
     display: inline-block;
-    width: fit-content;
+    width: fit-contentj;
 }
 .more-tmp{
     width: 11.05vw;
@@ -1127,4 +1127,8 @@ nav {
 
  .lst-link a:hover::after {
     width: 100%;
+}
+.lst-link a{
+    display: inline-block;
+    width: fit-content;
 }
