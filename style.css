@@ -1,11 +1,11 @@
 @font-face {
     font-family: helvatica;
-    src: url(./ASSESTS/Helvetica.ttf);
+    src: url(./ASSETS/Helvetica.ttf);
 }
 
 @font-face {
     font-family: times;
-    src: url(./ASSESTS/Times\ New\ Roman\ Regular.ttf);
+    src: url(./ASSETS/Times\ New\ Roman\ Regular.ttf);
 }
 
 * {
@@ -66,7 +66,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(./ASSESTS/LOGOS/LOGO.svg);
+    background-image: url(./ASSETS/LOGOS/LOGO.svg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -274,7 +274,7 @@ nav {
 
 .bar1 {
     width: 5.7vw;
-    background-image: url(./ASSESTS/LOGOS/LOGO-HALF.svg);
+    background-image: url(./ASSETS/LOGOS/LOGO-HALF.svg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -282,7 +282,7 @@ nav {
 
 .bar2 {
     width: 6.5vw;
-    background-image: url(./ASSESTS/LOGOS/LOGO2.svg);
+    background-image: url(./ASSETS/LOGOS/LOGO2.svg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -290,7 +290,7 @@ nav {
 
 .bar3 {
     width: 3.0vw;
-    background-image: url(./ASSESTS/LOGOS/LOGO3.svg);
+    background-image: url(./ASSETS/LOGOS/LOGO3.svg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -298,7 +298,7 @@ nav {
 
 .bar4 {
     width: 12.0vw;
-    background-image: url(./ASSESTS/LOGOS/LOGO4.svg);
+    background-image: url(./ASSETS/LOGOS/LOGO4.svg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -306,7 +306,7 @@ nav {
 
 .bar5 {
     width: 11.3vw;
-    background-image: url(./ASSESTS/LOGOS/LOGO5.svg);
+    background-image: url(./ASSETS/LOGOS/LOGO5.svg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -314,7 +314,7 @@ nav {
 
 .bar6 {
     width: 14.2vw;
-    background-image: url(./ASSESTS/LOGOS/LOGO6.svg);
+    background-image: url(./ASSETS/LOGOS/LOGO6.svg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -866,7 +866,7 @@ nav {
 .plogo{
     width: 100%;
     height: 100%;
-    background-image: url(./ASSESTS/LOGOS/LOGO6.svg);
+    background-image: url(./ASSETS/LOGOS/LOGO6.svg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat    ;
@@ -889,7 +889,7 @@ nav {
     border-bottom: none;
 }
 .clnp6{
-    background-image: url(./ASSESTS/LOGOS/LOGO4.svg);
+    background-image: url(./ASSETS/LOGOS/LOGO4.svg);
 }
 #page7{
   height: 100vh;
@@ -1057,7 +1057,7 @@ nav {
 .l-oliv-icon{
     width: 6vw;
     height: 4vw;
-    background-image: url(./ASSESTS/LOGOS/LOGO.svg);
+    background-image: url(./ASSETS/LOGOS/LOGO.svg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
